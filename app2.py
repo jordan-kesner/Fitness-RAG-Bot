@@ -1,5 +1,5 @@
 import streamlit as st
-from rag_pipeline import stream_llm_rag_response
+from rag_pipeline2 import stream_llm_rag_response
 from langchain_openai import OpenAI
 import dotenv
 import os
